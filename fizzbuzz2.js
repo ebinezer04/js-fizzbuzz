@@ -1,5 +1,4 @@
-// This is our main function
-function fizzbuzz() {
+function fizzbuzz() { 
     for (let i = 1; i <= 255; i++){
         let output = [];
 
@@ -35,6 +34,5 @@ function fizzbuzz() {
     }
 }
 
-// Now, we run the main function:
 fizzbuzz();
 
